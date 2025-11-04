@@ -49,7 +49,7 @@ Adicione suas informações seguindo este formato:
 ```markdown
 ### 🍊 [Seu nome]
 - 🧑‍🏫 Mentor(a): [Nome do(a) mentor(a)]
-- 🌱 Turma: [Nome ou número da turma]
+- 🌱 Programa de Mentoria: 1º Edição
 - 📘 Repositório TIL: [link para o seu repositório TIL]
 ```
 
