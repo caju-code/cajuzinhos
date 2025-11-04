@@ -6,6 +6,27 @@
 
 ---
 
+<img width="471" height="576" alt="Screenshot 2025-11-04 at 15 57 56" src="https://github.com/user-attachments/assets/de119f33-da69-42ed-94f5-6d7b55168987" />
+
+### :bookmark: Por que versionar?
+
+- 🧠 **Histórico e rastreabilidade:** cada mudança é registrada — quem fez, quando e por quê.  
+  > Facilita entender e aprender com o passado.
+
+- 🕰️ **Voltar no tempo:** errou algo? Sem pânico 😅  
+  > Git permite reverter para versões anteriores com segurança.
+
+- 🤝 **Colaboração segura:** várias pessoas podem trabalhar juntas sem sobrescrever código.  
+  > Branches e merges tornam o trabalho em equipe possível!
+
+- 🧩 **Organização e clareza:** commits bem descritos contam a história do projeto.  
+  > Você entende o que mudou sem abrir os arquivos.
+
+- 🌱 **Aprendizado contínuo:** cada commit mostra sua evolução como dev.  
+  > Na **Caju Code**, versionar é cultivar seu aprendizado 🍊
+
+---
+
 # 🧠 O que é o Git?
 
 **Git** é um **sistema de controle de versão distribuído**, criado por **Linus Torvalds** em 2005.  
