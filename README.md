@@ -1,5 +1,7 @@
 # 🍊💛 Caju Code — Cajuzinhos
 
+Oie!
+
 Bem-vindo(a) ao repositório dos **Cajuzinhos** 🍊 — a comunidade de mentorandos do programa de mentoria **Caju Code**!  
 
 Aqui reunimos todos os participantes, seus mentores e os links para seus repositórios pessoais de **Today I Learned (TIL)** 🌱  
