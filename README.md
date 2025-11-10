@@ -47,10 +47,15 @@ Adicione suas informações seguindo o formato abaixo:
 Adicione suas informações seguindo este formato:
 
 ```markdown
-### 🍊 [Seu nome]
-- 🧑‍🏫 Mentor(a): [Nome do(a) mentor(a)]
+### 🍊 Andressa Madureira (Madu)
+- 💼 Área de atuação: Dados
+- 💬 Sobre: Venho da área de atendimento com foco no cliente ao mundo dos dados e aprendendo a conectar histórias, pessoas e insights através da tecnologia.
+- 🧑‍🏫 Mentor(a): Maurício Silva Costa
 - 🌱 Programa de Mentoria: 1º Edição
-- 📘 Repositório TIL: [link para o seu repositório TIL]
+- 📘 Repositório TIL: https://github.com/Andressa-Madureira/today-i-learned
+- 📎 Contato: www.linkedin.com/in/andressa-omadureira
+
+
 ```
 
 
