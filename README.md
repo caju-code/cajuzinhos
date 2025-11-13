@@ -52,6 +52,8 @@ Adicione suas informações seguindo este formato:
 - 🌱 Programa de Mentoria: 1º Edição
 - 📘 Repositório TIL: [link para o seu repositório TIL]
 
+```
+
 ### 🍊 Andressa Madureira (Madu)
 - 💼 Área de atuação: Dados
 - 💬 Sobre: Venho da área de atendimento com foco no cliente ao mundo dos dados e aprendendo a conectar histórias, pessoas e insights através da tecnologia.
@@ -59,10 +61,5 @@ Adicione suas informações seguindo este formato:
 - 🌱 Programa de Mentoria: 1º Edição
 - 📘 Repositório TIL: https://github.com/Andressa-Madureira/today-i-learned
 - 📎 Contato: www.linkedin.com/in/andressa-omadureira
-
-
-
-
-```
 
 
